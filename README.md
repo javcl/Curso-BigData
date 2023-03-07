@@ -8,5 +8,5 @@ M6 - 01 - Python Notebook                        - introducción al lenguaje pyt
 
 M6 - 01 - Python Notebook - Solución             - archivo solución del profesor  
 
-M6 - 02 - Condicionales                          - tengo dos archivos con soluciones de las condicionales  
+M6 - 02 - Condicionales                          - tengo dos archivos con soluciones de las condicionales pero el correcto es el primero. No soy capaz de borrar el (1).  
 
