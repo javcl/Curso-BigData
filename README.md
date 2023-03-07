@@ -1,6 +1,6 @@
 # Curso-BigData
 
-Semana 6 del curso sobre repaso de todo lo anterior y cloud computing.
+Semana 6 del curso sobre repaso de todo lo anterior y cloud computing.  
 Soluciones de todos los dias.
 
 ## dia 1 -Lunes
