@@ -10,3 +10,5 @@ M6 - 01 - Python Notebook - Solución             - archivo solución del profes
 
 M6 - 02 - Condicionales                          - archivo con soluciones de las condicionales  
 
+## dia 2 - Martes
+M6 - 03 - Bucles v2                              - archivo con soluciones sobre bucles
